@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "outDir": "./dist",
+    "sourceMap": true
+  },
+  "include": ["src/**/*.ts", "src/index.js", "src/index2.js"], // ou o padrão que você preferir
+  "exclude": ["node_modules"]
+}
